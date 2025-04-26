@@ -112,4 +112,22 @@ p{
     bottom:0.1em ;
     margin-bottom: 1%;
 
-}       
+}   
+
+@media (max-width: 1300px){
+    header{
+        padding:1rem 0.5rem;
+    }
+
+    .content{
+        margin-top: 60%;
+    }
+
+    .robot{
+        scale: 1.9;
+
+       height: 30%;
+       top: 200px;
+      left: 18em;
+    }
+}
